@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA 1.2 Topic//EN" "topic.dtd">
+<topic
+  id="topic-02">
+  <title>Composite 1, Topic 02</title>
+  <body>
+    <p
+      id="topic-02">This is the first second in a composite. Duplicating the topic ID just to test
+      this case.</p>
+    <p>Cross reference to key "composite-01-topic-01: <xref
+        href="topic-01.dita"
+        keyref="composite-01-topic-01"/></p>
+  </body>
+</topic>
